@@ -14,6 +14,8 @@ JSON output panel showing the mapping between component names and their content/
 
 Export button to download the generated JSON mapping
 
+Link to website: https://stoic-davinci4-6rfem.view-3.tempo-dev.app/
+
 ![image](https://github.com/user-attachments/assets/55fc3dad-05b6-40de-8bdf-746619ca6b4c)
 
 
