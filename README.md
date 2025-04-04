@@ -2,7 +2,7 @@
 TSX button info extracter [Generated with Tempo.new]
 -----------
 
-A Next.js application that allows users to upload .tsx files, extract component names and buttons, and generate a structured JSON mapping of the component hierarchy.
+A Next.js application that allows users to upload .tsx files, extract component names and buttons, and generate a structured JSON mapping of the buttons, and related names.
 
 Upload area for .tsx files with drag-and-drop functionality and file selection
 
